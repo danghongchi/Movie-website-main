@@ -49,11 +49,11 @@ Quản trị viên có thể quản lý danh mục phim, thể loại, tài kho�
 
 * Chi tiết phim
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0de59637-4c4e-4099-8cfa-a36c3cc0a6ef" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e298c766-964c-4d31-b1ab-554307bbc3aa" />
+
 
 
 * Xem phim (iframe)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a97be5f2-c1c0-484d-a47e-4b7550275397" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0197d2f-de16-44d5-a9be-ccbf8a57148b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e0262a7-4914-4326-bf62-cf2f0eb4c0b9" />
 
