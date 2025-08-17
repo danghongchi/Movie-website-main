@@ -44,6 +44,8 @@ Quản trị viên có thể quản lý danh mục phim, thể loại, tài kho�
 * Bộ lọc phim
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e6bb896-7b7a-4d2c-8c11-8e4270872be6" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e3e2aac-fcbc-438c-b0a2-ea2835155cd8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2b079f8-681d-4415-ae09-63286925578c" />
+
 * Diễn viên
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28b72a2a-91be-4079-b12d-ab14f9e9055e" />
 
