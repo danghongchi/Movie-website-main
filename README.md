@@ -101,8 +101,3 @@ Quản trị viên có thể quản lý danh mục phim, thể loại, tài kho�
 📅 2025
 
 
-
----
-
-👉 Bạn có muốn mình viết thêm một bản **README ngắn gọn (10–15 dòng)** cho **Movie Express Website** để hiển thị trên GitHub repo nhanh gọn, còn bản chi tiết này thì giữ trong thư mục project không?
-```
